@@ -1,0 +1,4 @@
+users_passwords.txt
+*.pem
+*.key
+credentials/
