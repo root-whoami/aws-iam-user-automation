@@ -1,4 +1,24 @@
+# AWS credentials and generated secret output files
 users_passwords.txt
+credentials/
+credentials
+credentials.*
+secrets/
+passwords/
+*.csv
+
+# Certificates and keys
 *.pem
 *.key
-credentials/
+
+# Environment files
+.env
+.env.*
+
+# Logs and runtime outputs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
